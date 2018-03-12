@@ -2,6 +2,9 @@ package com.ipiecoles.java.java350.model;
 
 import org.joda.time.LocalDate;
 
+import com.ipiecoles.java.java350.model.Employe;
+import com.ipiecoles.java.java350.model.Note;
+
 import javax.persistence.Entity;
 
 @Entity
